@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const password = document.getElementById('password').value;
 
         // Hardcoded credentials for demonstration purposes
-        const validEmail = 'Gillk01@pfw.edu';
+        const validEmail = 'gillk01@pfw.edu';
         const validPassword = 'Khush@2004';
 
         // Simple validation: Check if entered credentials match the hardcoded ones
